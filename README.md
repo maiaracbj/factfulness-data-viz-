@@ -8,3 +8,4 @@ Arquivo pbix para download
 
 CSV's utilizados
 
+Site com a versão HTML: https://maiaracbj.github.io/factfulness-data-viz-/
